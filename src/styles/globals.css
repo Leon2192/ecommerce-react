@@ -1,0 +1,40 @@
+.navLogo{
+   margin-right: 10px;
+   height: 5rem;
+}
+.rootNav{
+    flex-grow: 1;
+    margin-bottom: 7rem;
+}
+
+.appBar{
+background-color: whitesmoke;
+box-shadow: none;
+}
+.grow{
+    flex-grow: 1;
+}
+
+.productsRoot{
+    flex-grow: 1;
+    padding: 2;
+}
+
+.cardActions{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+}
+
+.rootTotal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+
+.rootTotal .buttonCheckout{
+    margin-top: 2rem;
+}
